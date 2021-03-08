@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BtechProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_parking_places">Map</string>
+</resources>
